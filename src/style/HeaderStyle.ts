@@ -16,4 +16,7 @@ export const ButtonHeader = styled.button`
    border-radius: 20px;
    color: #fff;
    border: none;
+   box-shadow: -1px 16px 27px 0px rgba(255,136,31,0.53);
+   -webkit-box-shadow: -1px 16px 27px 0px rgba(255,136,31,0.53);
+   -moz-box-shadow: -1px 16px 27px 0px rgba(255,136,31,0.53);
 `;
